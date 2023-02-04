@@ -18,4 +18,4 @@ if (num1_text[0]==num1_text[4] && num1_text[1]==num1_text[3])
     Console.WriteLine ($"Введеное число {num1} - полиндром");
     return;
   }
-Console.WriteLine ($"Введеное число {num1_text} - не является полиндром");
+Console.WriteLine ($"Введеное число {num1} - не является полиндром");
